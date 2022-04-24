@@ -1,9 +1,33 @@
-#footer
+#header a
 {
-    background: #000;
+    color: white;
+    
 }
 
-#footer a
+#header a:hover
+{
+    color: orange;
+}
+
+#header img 
+{
+    width: 55px;
+}
+
+
+.navbar-nav 
+{
+		position: absolute ;
+        right: 160px;
+	
+}
+
+#footer
+{
+    background: linear-gradient(90deg,#1c3643,#273647 25%,#1e5372);
+}
+
+#footer a 
 {
     color: white;
 }
