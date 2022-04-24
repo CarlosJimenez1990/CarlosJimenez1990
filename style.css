@@ -1,21 +1,9 @@
-body
+#footer
 {
-background-color: aqua;
-}
-div
-{
-    text-align: center;
+    background: #000;
 }
 
-
-h1
+#footer a
 {
-    text-align: center;
-    
-    position: relative;
-    margin: auto;
-    background-color: blue;
-    width: 35%;
-    border-radius: 20%;
-
+    color: white;
 }
