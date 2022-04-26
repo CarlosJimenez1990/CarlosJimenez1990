@@ -14,6 +14,14 @@
   color: #ffa500;
 }
 
+#navbarSupportedContent li
+{
+		position: relative;
+        margin: 0;
+        left: 712px;
+        bottom: 20px;
+        
+}
 
 
 
